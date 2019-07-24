@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "124983636301",
+    "firebase_url": "https://santcom-46b9d.firebaseio.com",
+    "project_id": "santcom-46b9d",
+    "storage_bucket": "santcom-46b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124983636301:android:53ac32ba24d24693",
+        "android_client_info": {
+          "package_name": "com.example.santcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124983636301-2s6l2gs999ocmck18vn26r6k616pcpuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.santcom",
+            "certificate_hash": "94ce3dabf048ca403af16d6fc7efa3e24753ab5a"
+          }
+        },
+        {
+          "client_id": "124983636301-b8tn4ahq24gjj9i6u0clucgqg2dfc3tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.santcom",
+            "certificate_hash": "d8883f3bf6a990e7cc03fe503cc9954a3860125a"
+          }
+        },
+        {
+          "client_id": "124983636301-crp1hmskatgpgink9rrvna42244eq10m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2lCQ1I7GK8lEaP5f5WganzsUBoA4jSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124983636301-crp1hmskatgpgink9rrvna42244eq10m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124983636301:android:1cef54765ed7431a",
+        "android_client_info": {
+          "package_name": "ir.majidifar.sajjad.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124983636301-ott8gu7fpqleklk6aq50imecgk9esopt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.majidifar.sajjad.messenger",
+            "certificate_hash": "94ce3dabf048ca403af16d6fc7efa3e24753ab5a"
+          }
+        },
+        {
+          "client_id": "124983636301-crp1hmskatgpgink9rrvna42244eq10m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2lCQ1I7GK8lEaP5f5WganzsUBoA4jSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124983636301-crp1hmskatgpgink9rrvna42244eq10m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
